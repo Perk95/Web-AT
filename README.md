@@ -1,8 +1,8 @@
 # Web-AT
 <html>  
-
- <h1> These are my favorite things </h1> 
 <body>
+ <h1> These are my favorite things </h1> 
+
     
     <a href = "#movies"> My Movies </a> </br>
     <a href = "#foods" > My foods </a> </br>
